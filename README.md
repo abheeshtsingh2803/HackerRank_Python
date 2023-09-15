@@ -7,3 +7,4 @@ HackerRank Python solutions and challenges.
 | No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
 |--|--|--|--|--|--|--|
 | 1 | [**Day 1 : Say "Hello, World!" with Python**](solution/Hello_World.md) | Easy | 5 | 1 | `Basic` | [LINK](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) |
+| 2 | [**Day 2 : Python Else-if**](solution/Else_if.md) | Easy | 5 | 1 | `Basic` | [LINK](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) |
