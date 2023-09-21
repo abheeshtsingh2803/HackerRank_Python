@@ -11,3 +11,4 @@ HackerRank Python solutions and challenges.
 | 3 | [**Day 3 : Arithmetic Operator**](solution/Arithmetic_operator.md) | Easy | 5 | 1 | `Operator` | [LINK](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) |
 | 4 | [**Day 4 : Python Division**](solution/Python_Division.md) | Easy | 5 | 1 | `Operator` | [LINK](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) |
 | 5 | [**Day 5 : Python Loops**](solution/Loops.md) | Easy | 5 | 1 | `Loops` | [LINK](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
+| 6 | [**Day 6 : Write a Function**](solution/Write_a_Function.md) | Medium | 5 | 1 | `Operator` `Function` | [LINK](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
