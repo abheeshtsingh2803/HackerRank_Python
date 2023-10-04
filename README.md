@@ -13,3 +13,4 @@ HackerRank Python solutions and challenges.
 | 5 | [**Day 5 : Python Loops**](solution/Loops.md) | Easy | 5 | 1 | `Loops` | [LINK](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
 | 6 | [**Day 6 : Write a Function**](solution/Write_a_Function.md) | Medium | 5 | 1 | `Operator` `Function` | [LINK](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
 | 7 | [**Day 7 : Print Function**](solution/Print_Function.md) | Medium | 20 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
+| 8 | [**Day 8 : List Comprehension**](solution/ListComprehensions.md) | Easy | 10 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) |
