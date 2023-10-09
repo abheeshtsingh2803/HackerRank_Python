@@ -15,3 +15,4 @@ HackerRank Python solutions and challenges.
 | 7 | [**Day 7 : Print Function**](solution/Print_Function.md) | Medium | 20 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
 | 8 | [**Day 8 : List Comprehension**](solution/ListComprehensions.md) | Easy | 10 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) |
 | 9 | [**Day 9 : Find The Runner Up Score**](solution/FindTheRunnerUpScore.md) | Easy | 10 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) |
+| 10 | [**Day 10 : Input()**](solution/input().md) | Easy | 20 | 1 | `Stdin` | [LINK](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true) |
