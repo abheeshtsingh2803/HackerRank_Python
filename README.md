@@ -16,3 +16,4 @@ HackerRank Python solutions and challenges.
 | 8 | [**Day 8 : List Comprehension**](solution/ListComprehensions.md) | Easy | 10 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) |
 | 9 | [**Day 9 : Find The Runner Up Score**](solution/FindTheRunnerUpScore.md) | Easy | 10 | 1 | `Stdin` `Loop` | [LINK](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) |
 | 10 | [**Day 10 : Input()**](solution/input().md) | Easy | 20 | 1 | `Stdin` | [LINK](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true) |
+| 11 | [**Day 11 : Python Evaluation**](solution/Python_Evaluation.md) | Easy | 20 | 1 | `Stdin` | [LINK](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true) |
